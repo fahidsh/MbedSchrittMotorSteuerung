@@ -20,20 +20,31 @@ Genuso die drei Taster sind mit entsprechende funktion programmiert.
 
 Der Programm hat drei States/ **Zustände** nach der Startvorgang
 ### gestoppt:
-![gestoppt](resources/gestoppt.png)
+<img src="resources/gestoppt.png" alt="gestoppt" width="350">
+
 1. **Taster-0** hat in dieser Zustand kein Funktion
 2. **Taster-1** wechselt der zustand zur dreheRechts
 3. **Taster-2** wechselt der zustand zur dreheLinks
 ### rechtsDrehen:
-![dreheRechts](resources/dreheRechts.png)
+<img src="resources/dreheRechts.png" alt="dreheRechts" width="350">
+
 1. **Taster-0** wechselt der zustand zur gestoppt
 2. **Taster-1** hat in dieser Zustand kein Funktion
 3. **Taster-2** wechselt der zustand zur dreheLinks
 ### linksDrehen:
-![dreheLinks](resources/dreheLinks.png)
+<img src="resources/dreheLinks.png" alt="dreheLinks" width="350">
+
 1. **Taster-0** wechselt der zustand zur gestoppt
 2. **Taster-1** wechselt der zustand zur dreheRechts
 3. **Taster-2** hat in dieser Zustand kein Funktion
+
+---
+## Zusatandstebelle
+|Zusand|Taster-0|Taster-1|Taster-2|
+|---
+|gestoppt|---|dreheRechts|dreheLinks|
+|dreheRechts|gestoppt|---|dreheLinks|
+|dreheLinks|gestoppt|dreheRechts|---|
 
 ---
 
