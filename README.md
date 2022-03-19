@@ -41,10 +41,11 @@ Der Programm hat drei States/ **Zustände** nach der Startvorgang
 ---
 ## Zusatandstebelle
 |Zusand|Taster-0|Taster-1|Taster-2|
-|---
+|--|---|---|---|
 |gestoppt|---|dreheRechts|dreheLinks|
 |dreheRechts|gestoppt|---|dreheLinks|
 |dreheLinks|gestoppt|dreheRechts|---|
+
 
 ---
 
