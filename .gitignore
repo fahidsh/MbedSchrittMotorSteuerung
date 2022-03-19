@@ -10,3 +10,5 @@ compile_commands.json
 .cache
 mbed-os.lib
 main.cpp.old
+resources
+
