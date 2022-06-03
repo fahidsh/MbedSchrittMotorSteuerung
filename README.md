@@ -5,6 +5,7 @@
 - [Arduino Multifunction Shield](https://www.amazon.de/dp/B07RHF9L99/)
 - [Schrittmotor 28BYJ-48](https://www.amazon.de/dp/B07VGV1XFT/)
 - [LCD Display](https://www.amazon.de/dp/B07JH6GHPR/)
+<br><span style="color: red; font-weight:bold;">UPDATE 20220603: LCD wird aus Performancegründen rausgenommen, falls Sie alte Version mit LCD-Funktionalität brauchen, bitte [hier Klicken](https://github.com/fahidsh/MbedSchrittMotorSteuerung/tree/fc13dd1f71cc09b42ab264ad5d4d2ee34dca522e)</span>
 ### Software:
 - [Mbed Studio](https://os.mbed.com/studio/)
 
